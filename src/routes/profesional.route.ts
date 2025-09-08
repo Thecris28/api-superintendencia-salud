@@ -1,6 +1,5 @@
 import { Router, Request, Response } from "express";
-import { prisma } from "@/config/prisma";
-import { connect } from "http2";
+import { prisma } from "../config/prisma";
 
 
 interface ProfesionalRequestBody {

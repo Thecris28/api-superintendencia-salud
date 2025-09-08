@@ -1,4 +1,4 @@
-import { seedDatabase } from "@/config/seed";
+import { seedDatabase } from "../config/seed";
 import { Request, Response, Router } from "express";
 
 const adminRoute = Router();
