@@ -10,6 +10,7 @@
     * Listar todos los profesionales
     * Buscar un profesional por Rut o Id
     * Agregar antecedentes a cada profesional
+* Validacion en la entrada de los campos
 
 ## Instalacion
 ```bash
@@ -20,4 +21,5 @@ $ npm install
 ```bash
 # development
 $ npm run dev
+
 ```
